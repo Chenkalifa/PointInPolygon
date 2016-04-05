@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="you_are_here">You are here!</string>
+    <string name="inside_the_polygon_message">Hooray, you\'re in the polygon!</string>
+    <string name="outside_the_polygon_message">You\'re outside the polygon</string>
+    <string name="app_title">Are You in the Polygon?</string>
+    <string name="meters">Meters</string>
+    <string name="km">KM</string>
+    <string name="nearest_point">" to nearest point"</string>
+</resources>
